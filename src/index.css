@@ -27,15 +27,7 @@ button:focus {
 
 
 
-@media (min-width: 768px) {
-  header {
-    margin-bottom: 4rem;
-  }
 
-  header h1 {
-    font-size: 2.25rem;
-  }
-}
 
 #auth-inputs {
   width: 100%;
@@ -92,7 +84,7 @@ button:focus {
   gap: 1rem;
 }
 
-.button {
+/* .button {
   padding: 1rem 2rem;
   font-weight: 600;
   text-transform: uppercase;
@@ -105,7 +97,7 @@ button:focus {
 
 .button:hover {
   background-color: #f0920e;
-}
+} */
 
 .text-button {
   color: #f0b322;
